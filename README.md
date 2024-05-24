@@ -14,7 +14,7 @@
 
 `Now read in shenzhen merchiston international school`
 
-<img src="merchiston.jfif" alt="image not find">
+<img src="merchiston.png" alt="image not find">
 ---
 
 我会 **JS** *(基础)* , **CSS** *(进阶)* , **HTML** *(进阶)* , **Python** *(入门)* 语言;
