@@ -1,4 +1,6 @@
-# In Fact
-there is **Absolute** nothing at here
+# 来自远方的朋友
+## 早上好 上午好 中午好 晚上好 凌晨好
 
-please go and find a other repository to find the things that u need
+你今天写代码了吗?
+---
+这里是一位在深圳某学校的初中生, 你可以在这里找到一些~~~十分有趣~~~的东西
